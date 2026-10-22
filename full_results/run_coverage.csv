@@ -1,0 +1,4 @@
+dataset,rows,users
+registrations,1000000,1000000
+authorizations,9601013,1000000
+ab_test,404770,404770
