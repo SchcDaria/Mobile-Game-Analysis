@@ -162,5 +162,8 @@ jupyter notebook game_analytics_portfolio_full.ipynb
 Установка и запуск Jupyter описаны в [официальной документации](https://github.com/jupyter/notebook#installation).
 
 ## Инструменты
-
 `Python` · `pandas` · `NumPy` · `Matplotlib` · `statsmodels` · `Jupyter Notebook`
+
+Этот проект выполнен в рамках учебного задания на платформе [Karpov.Courses](https://karpov.courses). 
+* **Автор задания:** ООО «Карпов Курсы»
+* **Официальный сайт:** [karpov.courses](https://karpov.courses)
